@@ -52,8 +52,10 @@ def decrypt(password: str, encrypted_message: str) -> str:
 
 # Example usage
 
+take_input = str(input())
+
 # Encrypt the message "hello" with the password "password"
-encrypted_message = encrypt("password", "David dew mallick")
+encrypted_message = encrypt("password", take_input)
 
 print("Encrypted message:" + " " + encrypted_message)  # Output: a long base64 encoded string
 
