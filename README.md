@@ -1,2 +1,2 @@
 # Obfuscation
-A tool for encrypting and decrypting sensitive information
+A tool for encrypting and decrypting sensitive information. The tool uses a secure cryptographic algorithm to protect the information, ensuring that it can only be accessed by those with the appropriate key or password. It is useful for protecting sensitive data such as passwords, personal identification numbers, and financial information. It is easy to use and provides an extra layer of security for your sensitive data.
